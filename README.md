@@ -1,9 +1,9 @@
 Hi there, i'm Mphatso Chintedza 👋
 
-## I'm a recent graduate who is interested to learn more and to work in IT field!
+## I'm a recent graduate who is interested in learning and develop my skills in IT field!
 
-- 🔭 I just launched my first app Portable Shopping Scanner
-- 🌱 I’m currently learning everything in IT
+- 🔭 I launched Portable Shopping Scanner app
+- 🌱 I’m currently learning everything in IT mainly security related.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love going for roadtrips, walks and listening to music.
