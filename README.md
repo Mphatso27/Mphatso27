@@ -1,11 +1,11 @@
 Hi there, i'm Mphatso Chintedza 👋
 
-## I'm a recent graduate who is interested in learning and develop my skills in IT field!
+## I'm a graduate with MSc in Data Analytics who is interested in connections, learning and continue developing my skills in IT field!
 
-- 🔭 I launched Portable Shopping Scanner app
-- 🌱 I’m currently learning everything in IT mainly security related.
+- 🔭 I developed a machine learning model to predict football player's future value based on their current statistics
+- 🌱 I’m currently learning everything in IT mainly data related.
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love going for roadtrips, walks and listening to music.
 
 ## Connect with me:
